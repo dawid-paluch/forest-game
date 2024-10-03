@@ -1,6 +1,5 @@
 /* ***************************************
   @author    Dawid Paluch
-  @SID       230076495
   @date      9 December 2023
   @version   1
 
