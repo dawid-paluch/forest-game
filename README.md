@@ -1,2 +1,2 @@
-# forest-game
-Simple, text-based forest game created for first year university coursework.
+# Forest Game
+This is a simple, text-based game. The game is set in a forest with the player beinng an adventure, that explores the forrest. Currently this only allows the player to heal injured animals, however some improvements are planned to be made at some point allowing the game to be more enjoyable and have some entertainment value to it making it an actually playable game, however the plan is to maintain its simple text-based style. The game was prepared as coursework to fulfill the requirements of part of my university course and so originally was simply designed to fulfill the given requirements. The program has been written in Java and makes use of appropriate use of classes and methods written in a procedural programming style.
